@@ -38,7 +38,7 @@ Agent Status Display
     d listeneragent-3.0 listener running [3813]
     2 testeragent-0.1                 0
 
-``volttron-ctl statu`` shows a list of all agents installed on the
+``volttron-ctl status`` shows a list of all agents installed on the
 platform and their current status.
 
 -  uuid is the first column of the display and is displayed as the
